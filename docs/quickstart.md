@@ -51,7 +51,7 @@
   [restoration gate](release-signing.md#windows-distribution-restoration-gate).
 
 ```powershell
-# Stable channel (`@latest`, currently v2.6.0)
+# Stable channel (`@latest`, currently v2.7.0)
 go install github.com/gentleman-programming/gentle-ai/v2/cmd/gentle-ai@latest
 ```
 
@@ -62,7 +62,7 @@ version 2 and above.
 
 Receipt-Driven Development (RDD) began in `v1.47.0` on 2026-07-10, and `v2.2.0` made it the supported stable path. Those are historical milestones. The negotiated public review contract was published in `v2.1.6`.
 
-The current stable release is [`v2.6.0`](https://github.com/Gentleman-Programming/gentle-ai/releases/tag/v2.6.0). `@latest` explicitly tracks this stable channel. No prerelease is ahead of stable. `@main` installs unreleased development changes.
+The current stable release is [`v2.7.0`](https://github.com/Gentleman-Programming/gentle-ai/releases/tag/v2.7.0). `@latest` explicitly tracks this stable channel. No prerelease is ahead of stable. `@main` installs unreleased development changes.
 
 ### Install the stable channel
 
